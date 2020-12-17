@@ -1,7 +1,9 @@
-hola mundo 
+Hola mundo 
 
 Aprendiendo 
 
 Y practicando 
 
-En platzi.. 
+En platzi.
+
+Hoy estamos aprendiendo de git y gitlab. 
