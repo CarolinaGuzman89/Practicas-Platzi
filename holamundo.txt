@@ -1,9 +1,9 @@
-Hola mundo 
+Esta es mi historia 
 
-Aprendiendo 
+Mi nombre es Carolina Guzman 
 
-Y practicando 
+Tengo 31 años y nací en México. 
 
-En platzi.
+Main 1 
 
 Hoy estamos aprendiendo de git y gitlab. 
